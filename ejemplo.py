@@ -1,2 +1,2 @@
 print("ahora si los cambios son reales")
-prueba desde laptop
+print("este es rodrigo desde mi pc ")
